@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm Oliver  
 
 🚀 **Software Developer | Open Source Contributor | Tech Enthusiast**  
 
@@ -16,8 +16,7 @@
 
 📫 **How to reach me:**  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](www.linkedin.com/in/oliver-sørensen-868635339)  
-[![GitHub]()  
-[![Twitter]()  
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:olsoe21@student.sdu.dk)  
 
 📊 **GitHub Stats:**  
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Olsedyr&show_icons=true&theme=radical)
