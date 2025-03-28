@@ -15,7 +15,7 @@
 - 🚀 Exploring **IoT & Embedded Systems**  
 
 📫 **How to reach me:**  
-[![LinkedIn](www.linkedin.com/in/oliver-sørensen-868635339)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](www.linkedin.com/in/oliver-sørensen-868635339)  
 [![GitHub]()  
 [![Twitter]()  
 
