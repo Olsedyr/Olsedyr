@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Oliver  
 
-🚀 **Software Developer | Open Source Contributor | Tech Enthusiast**  
+🚀 **Software Developer || Tech Enthusiast**  
 
 🔧 **Tech Stack:**  
   - 🔭 Check My portfolio page!
 
 💡 **What I'm working on:**  
-- 🔭 Building cool projects in **React & Node.js**  
+- 🔭 Projects in **React & Node.js**  
 - 🤖 Learning **AI & Machine Learning**  
 - 🚀 Exploring **IoT & Embedded Systems**  
 
@@ -17,4 +17,4 @@
 📊 **GitHub Stats:**  
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Olsedyr&show_icons=true&theme=radical)
 
-🎵 **Fun fact:** Im a musician in my free time! 🎸
+🎵 **Personal:** Im a musician in my free time! 🎸
